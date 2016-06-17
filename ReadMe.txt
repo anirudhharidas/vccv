@@ -1,1 +1,3 @@
-testing file commit
+testing file commits
+
+conflict #2
